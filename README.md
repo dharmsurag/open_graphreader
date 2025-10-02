@@ -1,6 +1,8 @@
 # graphreader_implementation
 Repo with practical implementation of graphreader paper.
 
+Graph-based agent system designed to supercharge when dealing with long and complex texts. Instead of reading documents linearly, it restructures them into a graph of atomic facts and relationships, then uses an intelligent agent to explore that graph in a goal-directed way
+
 Explore SLides -> [GraphReader Agentic RAG Rethinking Long Context for LLMs](https://docs.google.com/presentation/d/1-RLpp8D8XqzZ5reupiWtySAFrsEw9xTq8OVNGgdVE-I/edit?usp=sharing)
 
 Snip of the ingested graph from neo4j :
